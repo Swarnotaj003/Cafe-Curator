@@ -14,7 +14,7 @@ The primary objective of this project is to learn and implement key concepts in 
 You can download the APK file to install the application on your Android device:
 > This will require **granting permission** to *install apps from unknown sources*
 
-[**Download APK**]()
+[**Download APK**](https://github.com/Swarnotaj003/Cafe-Curator/releases/download/v1.0/app-release.apk)
 
 ## Getting Started
 
