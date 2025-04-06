@@ -1,5 +1,3 @@
-# Cafe Curator
-
 ## About
 **Cafe Curator** is an Android application designed using the `Flutter` framework for coffee enthusiasts to save and manage their coffee preferences. Users can easily log their coffee strength and amount of sugar, creating a personalized coffee diary.
 
@@ -15,6 +13,11 @@ You can download the APK file to install the application on your Android device:
 > This will require **granting permission** to *install apps from unknown sources*
 
 [**Download APK**](https://github.com/Swarnotaj003/Cafe-Curator/releases/download/v1.0/app-release.apk)
+
+## App Preview
+Sign in | Register | Home screen
+--------|----------|------------
+![image](https://github.com/user-attachments/assets/102c4df9-829e-4673-b328-0f6195a3a3f9) | ![image](https://github.com/user-attachments/assets/641a641f-be71-4d3f-8262-606a224286bb) | ![image](https://github.com/user-attachments/assets/0104217b-1496-4273-bf82-949cc1acd7be)
 
 ## Getting Started
 
